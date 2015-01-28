@@ -1,0 +1,5 @@
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Build\Debug\LateNight.Infrastructure.dll
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Build\Debug\LateNight.Infrastructure.pdb
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Infrastructure\obj\Debug\LateNight.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Infrastructure\obj\Debug\LateNight.Infrastructure.dll
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Infrastructure\obj\Debug\LateNight.Infrastructure.pdb

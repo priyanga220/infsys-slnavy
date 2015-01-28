@@ -1,0 +1,11 @@
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Build\Debug\LateNight.Modules.Notes.dll
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Build\Debug\LateNight.Modules.Notes.pdb
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Notes\obj\Debug\LateNight.Modules.Notes.csprojResolveAssemblyReference.cache
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Notes\obj\Debug\Views\NoteEditor.baml
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Notes\obj\Debug\Views\NotesBrowser.baml
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Notes\obj\Debug\Views\NoteEditor.g.cs
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Notes\obj\Debug\Views\NotesBrowser.g.cs
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Notes\obj\Debug\LateNight.Modules.Notes_MarkupCompile.cache
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Notes\obj\Debug\LateNight.Modules.Notes.g.resources
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Notes\obj\Debug\LateNight.Modules.Notes.dll
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Notes\obj\Debug\LateNight.Modules.Notes.pdb

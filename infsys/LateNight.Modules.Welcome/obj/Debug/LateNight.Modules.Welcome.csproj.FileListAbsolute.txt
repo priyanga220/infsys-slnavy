@@ -1,0 +1,9 @@
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Build\Debug\LateNight.Modules.Welcome.dll
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Build\Debug\LateNight.Modules.Welcome.pdb
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Welcome\obj\Debug\LateNight.Modules.Welcome.csprojResolveAssemblyReference.cache
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Welcome\obj\Debug\WelcomeView.baml
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Welcome\obj\Debug\WelcomeView.g.cs
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Welcome\obj\Debug\LateNight.Modules.Welcome_MarkupCompile.cache
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Welcome\obj\Debug\LateNight.Modules.Welcome.g.resources
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Welcome\obj\Debug\LateNight.Modules.Welcome.dll
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Welcome\obj\Debug\LateNight.Modules.Welcome.pdb
