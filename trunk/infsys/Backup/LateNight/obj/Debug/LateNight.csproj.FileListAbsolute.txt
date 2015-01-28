@@ -1,0 +1,8 @@
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Backup\Build\Debug\LateNight.exe.config
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Backup\LateNight\obj\Debug\LateNight.csprojResolveAssemblyReference.cache
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Backup\LateNight\obj\Debug\LogOnScreen.baml
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Backup\LateNight\obj\Debug\LateNightSplash.g.cs
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Backup\LateNight\obj\Debug\LogOnScreen.g.cs
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Backup\LateNight\obj\Debug\App.g.cs
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Backup\LateNight\obj\Debug\LateNight_MarkupCompile.cache
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Backup\LateNight\obj\Debug\LateNight_MarkupCompile.lref

@@ -1,0 +1,4 @@
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Build\Debug\LateNight.Modules.Notes.Interface.dll
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\Build\Debug\LateNight.Modules.Notes.Interface.pdb
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Notes.Interface\obj\Debug\LateNight.Modules.Notes.Interface.dll
+C:\Users\priyanga\Downloads\LateNight_v0.4_(r85)_src\LateNight_v0.4_(r85)_200806170408_src\Projects\LateNight\LateNight.Modules.Notes.Interface\obj\Debug\LateNight.Modules.Notes.Interface.pdb
